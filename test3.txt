@@ -1,2 +1,2 @@
 login
-git config user.name check
+git config user.name check second
